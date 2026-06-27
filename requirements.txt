@@ -1,0 +1,7 @@
+openai
+faiss-cpu
+numpy
+pandas
+python-docx
+PyPDF2
+openpyxl
