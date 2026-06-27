@@ -94,8 +94,18 @@ The system converts document content into embeddings and stores them in a FAISS 
 
 ---
 
-## Author
+## Team Project
 
-**Sarah Kazi**
+This project was developed as a team of three members during our academic work.
 
-B.Tech Information Technology
+### Team Members
+
+- Sarah Kazi
+- Khushi Patel
+- Shreya Pendurkar
+
+### My Contributions
+
+- Project development
+- Worked with OpenAI embeddings and FAISS integration.
+- Assisted in testing, documentation, and project integration.
